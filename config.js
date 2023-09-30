@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;UyQC0CJK#2rZEWpEq8D9FU3ep_Z_HXth0XT_1cymrGz-greY17uU' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://mr_dark_bot_user:rvgJgmJYm09A9oX8MyqWSiUJlT3PftlB@dpg-ckbrqkesmu8c73b1r9kg-a.frankfurt-postgres.render.com/mr_dark_bot'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94713257133'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Mr_x_Dark_Haca'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,7 +41,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'Mr_x_Dark_Bot'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
@@ -53,7 +53,7 @@ global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
